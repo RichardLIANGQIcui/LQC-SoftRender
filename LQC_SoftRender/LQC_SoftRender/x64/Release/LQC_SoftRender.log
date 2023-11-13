@@ -1,0 +1,168 @@
+﻿  camera.cpp
+E:\SRender\LQC_SoftRender\LQC_SoftRender\camera.cpp(28,25): warning C4305: “初始化”: 从“double”到“float”截断
+E:\SRender\LQC_SoftRender\LQC_SoftRender\camera.cpp(34,29): warning C4305: “=”: 从“double”到“float”截断
+E:\SRender\LQC_SoftRender\LQC_SoftRender\camera.cpp(46,48): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+E:\SRender\LQC_SoftRender\LQC_SoftRender\tgaimage.h(84,1): warning C4244: “*=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(88,26): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(88,15): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(192,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(192,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(192,16): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(303,50): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(303,40): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(303,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(303,16): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(380,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(390,9): warning C4101: “j”: 未引用的局部变量
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(390,6): warning C4101: “i”: 未引用的局部变量
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(481,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(594,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(607,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(620,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(650,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(651,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(652,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(661,28): error C2059: 语法错误:“;”
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(668,24): error C2059: 语法错误:“)”
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(677,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(678,21): error C2661: “fabs”: 没有重载函数接受 0 个参数
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(681,17): error C2059: 语法错误:“/”
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(682,17): error C2059: 语法错误:“/”
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(683,23): error C2059: 语法错误:“)”
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(684,27): error C2059: 语法错误:“/”
+E:\SRender\LQC_SoftRender\LQC_SoftRender\main.cpp(51,81): warning C4305: “参数”: 从“double”到“float”截断
+  maths.cpp
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(88,26): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(88,15): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(192,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(192,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(192,16): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(303,50): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(303,40): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(303,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(303,16): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(380,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(390,9): warning C4101: “j”: 未引用的局部变量
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(390,6): warning C4101: “i”: 未引用的局部变量
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(481,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(594,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(607,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(620,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(650,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(651,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(652,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\maths.cpp(677,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  model.cpp
+E:\SRender\LQC_SoftRender\LQC_SoftRender\tgaimage.h(84,1): warning C4244: “*=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(293,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(294,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(295,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(296,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(310,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(311,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(312,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(313,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(326,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(327,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(328,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(329,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(336,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(337,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(338,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(339,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(347,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(348,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(349,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(350,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(357,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(358,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(359,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(360,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(367,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(368,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(369,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\model.cpp(370,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  pbr_shader.cpp
+E:\SRender\LQC_SoftRender\LQC_SoftRender\tgaimage.h(84,1): warning C4244: “*=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pbr_shader.cpp(17,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pbr_shader.cpp(24,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pbr_shader.cpp(33,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pbr_shader.cpp(103,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pbr_shader.cpp(176,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pbr_shader.cpp(189,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pbr_shader.cpp(193,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pbr_shader.cpp(194,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pbr_shader.cpp(195,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pbr_shader.cpp(204,36): warning C4305: “参数”: 从“double”到“float”截断
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pbr_shader.cpp(241,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pbr_shader.cpp(258,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pbr_shader.cpp(260,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pbr_shader.cpp(272,33): warning C4305: “参数”: 从“double”到“float”截断
+  phong_shader.cpp
+E:\SRender\LQC_SoftRender\LQC_SoftRender\tgaimage.h(84,1): warning C4244: “*=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\phong_shader.cpp(65,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\phong_shader.cpp(80,26): warning C4305: “参数”: 从“double”到“float”截断
+E:\SRender\LQC_SoftRender\LQC_SoftRender\phong_shader.cpp(82,23): warning C4305: “参数”: 从“double”到“float”截断
+E:\SRender\LQC_SoftRender\LQC_SoftRender\phong_shader.cpp(87,51): warning C4305: “参数”: 从“double”到“float”截断
+E:\SRender\LQC_SoftRender\LQC_SoftRender\phong_shader.cpp(88,55): warning C4305: “参数”: 从“double”到“float”截断
+E:\SRender\LQC_SoftRender\LQC_SoftRender\phong_shader.cpp(97,70): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\phong_shader.cpp(98,75): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  pipeline.cpp
+E:\SRender\LQC_SoftRender\LQC_SoftRender\tgaimage.h(84,1): warning C4244: “*=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pipeline.cpp(244,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pipeline.cpp(245,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pipeline.cpp(285,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pipeline.cpp(356,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pipeline.cpp(357,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pipeline.cpp(383,65): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pipeline.cpp(383,49): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\pipeline.cpp(390,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  sample.cpp
+E:\SRender\LQC_SoftRender\LQC_SoftRender\tgaimage.h(84,1): warning C4244: “*=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(80,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(81,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(83,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(84,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(115,21): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(125,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(133,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(134,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(135,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(146,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(147,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(148,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(171,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(261,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(303,34): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(314,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(315,14): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(316,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(322,10): warning C4778: “printf”: 格式字符串“% \n”未终止
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(387,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(388,14): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(389,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(394,10): warning C4778: “printf”: 格式字符串“% \n”未终止
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(410,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(430,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(436,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(438,28): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(466,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(467,14): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\sample.cpp(468,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  scene.cpp
+E:\SRender\LQC_SoftRender\LQC_SoftRender\tgaimage.h(84,1): warning C4244: “*=”: 从“float”转换到“unsigned char”，可能丢失数据
+  skybox_shader.cpp
+E:\SRender\LQC_SoftRender\LQC_SoftRender\tgaimage.h(84,1): warning C4244: “*=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\SRender\LQC_SoftRender\LQC_SoftRender\skybox_shader.cpp(31,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  tgaimage.cpp
+E:\SRender\LQC_SoftRender\LQC_SoftRender\tgaimage.h(84,1): warning C4244: “*=”: 从“float”转换到“unsigned char”，可能丢失数据
+  win32.cpp
+E:\SRender\LQC_SoftRender\LQC_SoftRender\win32.cpp(74,40): error C2440: “=”: 无法从“const char [18]”转换为“LPCWSTR”
+E:\SRender\LQC_SoftRender\LQC_SoftRender\win32.cpp(74,21): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+E:\SRender\LQC_SoftRender\LQC_SoftRender\win32.cpp(126,1): error C2664: “HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)”: 无法将参数 2 从“const char [18]”转换为“LPCWSTR”
+E:\SRender\LQC_SoftRender\LQC_SoftRender\win32.cpp(126,1): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4432,1): message : 参见“CreateWindowExW”的声明
+E:\SRender\LQC_SoftRender\LQC_SoftRender\win32.cpp(231,2): error C2664: “BOOL TextOutW(HDC,int,int,LPCWSTR,int)”: 无法将参数 4 从“const char [57]”转换为“LPCWSTR”
+E:\SRender\LQC_SoftRender\LQC_SoftRender\win32.cpp(232,3): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 参见“TextOutW”的声明
